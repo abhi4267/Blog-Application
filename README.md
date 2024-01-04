@@ -23,7 +23,7 @@ This is the web application made using Django. It is blogging site which enables
 <img src = "./blogDemo.gif" alt = "blogDemoGIF">
 
 ## Author
-* LinkedIn: [@Prashant Kumar](https://www.linkedin.com/in/prashant-kumar-7aa9a4203/)
-* Email: [@prashant](mailto:prashantrkt2002@gmail.com)
-* Github: [@prashantpks](https://github.com/prashantpks/)
+* LinkedIn: [@Abhishek Singh](https://www.linkedin.com/in/prashant-kumar-7aa9a4203/)
+* Email: [@abhishek](mailto:abhisheksingh90627@gmail.com)
+* Github: [@abhishek](https://github.com/prashantpks/)
 
